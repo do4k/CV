@@ -16,7 +16,7 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 ######Computer Science - B
 - Core programming concepts taught with Pascal
 - Extensive HTML applied in various codepens and personal website/portfolios
-- Self driven end of year project can be found [here](https://github.com/iDanScott/PHP-Webstore). Written in PHP That was self taught within 4 months.
+- Self driven end of year project [PHP Webstore](https://github.com/iDanScott/PHP-Webstore). Self taught PHP within 4 months.
 
 ####Plymouth University 
 #####Foundation with Computer Science Year 0
@@ -25,7 +25,7 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 - Electronics
 - Computer Programming
 - Computer Systems and Networks 
-- Software Engineering Final Major Project [link](https://github.com/iDanScott/UniProject)
+- Software Engineering Final Major Project [Network Monitoring Suite](https://github.com/iDanScott/UniProject)
 
 #####Computer Science Year 1 
 So far
@@ -39,6 +39,7 @@ Upcoming
 - Principles of Network Infrastructure 
 
 ||Skill Set| 
+|---|---|
 | **Practices** | Pair Programming, Object-Orienated Design |
 | **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java | 
 | **Frameworks** | .NET, Bootstrap, Wordpress | 
