@@ -31,9 +31,9 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 So far
 - Computer Science Introduction 
 - Software Engineering Concepts
-- Database Analysis, Design and
+- Database Analysis, Design and Implementation
 - Sofware Engineering Christmas Challenge [Wordsearch](https://github.com/iDanScott/WordSearch)
-Implementation
+
 Upcoming 
 - The Quantum Universe (Mathematics)
 - Principles of Network Infrastructure 
