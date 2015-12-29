@@ -19,7 +19,7 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 - Self driven end of year project [PHP Webstore](https://github.com/iDanScott/PHP-Webstore). Self taught PHP within 4 months.
 
 ####Plymouth University 
-#####Foundation with Computer Science Year 0
+#####Foundation with Computer Science Year 0 - Progressed with a First.
 - Mathematics 
 - Statistics 
 - Electronics
