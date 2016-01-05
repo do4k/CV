@@ -23,7 +23,7 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 - Mathematics 
 - Statistics 
 - Electronics
-- Computer Programming
+- Computer Programming (VBScript, HTML/CSS).
 - Computer Systems and Networks 
 - Software Engineering Final Major Project [Network Monitoring Suite](https://github.com/iDanScott/UniProject)
 
