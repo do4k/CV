@@ -3,11 +3,16 @@
 I am a young enthusiastic undergaduate Software Engineer with a passion for learning and building.
 
 ##Work Experience
+####Plymouth University December 2015 - Present
+######Student Ambassador 
+- Delivering of Campus Tours.
+- Outreach within the Plymouth Community to raise awareness of the benefits of Higher Education.
+
 ####Original Software November 2012 - July 2013
 ######Apprentice Software Engineer (C#)
-- Ad hoc password recovery applications 
+- Ad hoc password recovery applications.
 - Programatical spreadsheet compounding for market data. 
-- Bug fixing on their enterprise poduct suite 
+- Bug fixing on their enterprise poduct suite.
 - Addon designing and developing using established interfaces
 - QA Testing using the bespoke software developed in house.
 
@@ -29,14 +34,15 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 
 #####Computer Science Year 1 
 So far
-- Computer Science Introduction 
+- Computer Science Introduction (First)
 - Software Engineering Concepts
-- Database Analysis, Design and Implementation
+- Database Analysis, Design and Implementation 
 - Sofware Engineering Christmas Challenge [Wordsearch](https://github.com/iDanScott/WordSearch)
 
 Upcoming 
 - The Quantum Universe (Mathematics)
 - Principles of Network Infrastructure 
+- Software Algorithms, Data Structures and Mathematics
 
 ||Skill Set| 
 |---|---|
