@@ -4,8 +4,13 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 
 ##Work Experience
 ####Plymouth University December 2015 - Present
+######PALs Leader
+- Organising and leading sessions which students can exchange ideas 
+- Co-operating with course leaders as to how sessions can be improved
+- Communicating and understanding multiple students ways of learning and adapting sessions based on those needs
+
 ######Student Ambassador 
-- Delivering of Campus Tours.
+- Delivery of Campus Tours.
 - Outreach within the Plymouth Community to raise awareness of the benefits of Higher Education.
 
 ####Original Software November 2012 - July 2013
@@ -35,12 +40,12 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 #####Computer Science Year 1 
 So far
 - Computer Science Introduction (First)
-- Software Engineering Concepts
-- Database Analysis, Design and Implementation 
+- Software Engineering Concepts (First)
+- Database Analysis, Design and Implementation (First) 
 - Sofware Engineering Christmas Challenge [Wordsearch](https://github.com/iDanScott/WordSearch)
+- The Quantum Universe (2:1)
 
-Upcoming 
-- The Quantum Universe (Mathematics)
+Up coming
 - Principles of Network Infrastructure 
 - Software Algorithms, Data Structures and Mathematics
 
@@ -48,9 +53,8 @@ Upcoming
 |---|---|
 | **Practices** | Pair Programming, Object-Orienated Design |
 | **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java | 
-| **Frameworks** | .NET, Bootstrap, Wordpress | 
-| **Databases** | MySQL, SQLite, Microsoft SQL Server | 
-
+| **Frameworks** | .NET, Bootstrap | 
+| **Databases** | MySQL, SQLite, Microsoft SQL Server / Access | 
 
 ####Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
 
