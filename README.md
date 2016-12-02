@@ -32,7 +32,7 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 ######Computer Science - B
 - Core programming concepts taught with Pascal
 - Extensive HTML applied in various codepens and personal website/portfolios
-- Self driven end of year project [PHP Webstore](https://github.com/iDanScott/PHP-Webstore). Self taught PHP within 4 months.
+- Self driven end of year project [PHP Webstore](https://github.com/iDanScott/PHP-Webstore). Self taught PHP.
 
 ####Plymouth University (2014 - 2018)
 #####Foundation with Computer Science Year 0 - Progressed with a First.
@@ -50,17 +50,15 @@ So far
 - Database Analysis, Design and Implementation (First) 
 - Sofware Engineering Christmas Challenge [Wordsearch](https://github.com/iDanScott/WordSearch)
 - The Quantum Universe (2:1)
-
-Up coming
-- Principles of Network Infrastructure 
-- Software Algorithms, Data Structures and Mathematics
+- Principles of Network Infrastructure (2:1)
+- Software Algorithms, Data Structures and Mathematics (2:1)
 
 ||Skill Set| 
 |---|---|
-| **Practices** | Pair Programming, Object-Orienated Design |
-| **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java | 
-| **Frameworks** | .NET, Bootstrap | 
-| **Databases** | MySQL, SQLite, Microsoft SQL Server / Access | 
+| **Practices** | Pair Programming, Object-Orienated Design (and Pattern Principles) |
+| **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java, GoLang | 
+| **Frameworks** | .NET, Bootstrap, Angular, Node, CakePHP | 
+| **Databases** | MySQL, SQLite, Microsoft SQL Server, BlockChain, Oracle | 
 
 ####Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
 
