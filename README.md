@@ -3,6 +3,12 @@
 I am a young enthusiastic undergaduate Software Engineer with a passion for learning and building.
 
 ##Work Experience
+####J D Wetherspoons, Gog & Magog July 2105 - Present 
+######Bar Associate 
+- Striving to deliver top quality customer service. 
+- Adhering my presentation to the high standards set by JD Wetherspoon.
+- Communicating to the best of my ability, with customers from various walks of life.
+
 ####Plymouth University December 2015 - Present
 ######PALs Leader
 - Organising and leading sessions which students can exchange ideas 
