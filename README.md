@@ -44,7 +44,6 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 - Software Engineering Final Major Project [Network Monitoring Suite](https://github.com/iDanScott/UniProject)
 
 #####Computer Science Year 1 
-So far
 - Computer Science Introduction (First)
 - Software Engineering Concepts (First)
 - Database Analysis, Design and Implementation (First) 
@@ -63,6 +62,6 @@ So far
 ####Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
 
 #Contact Me 
-- tehdanscott@gmail.com
+- dan.scott1994@hotmail.co.uk
 - @iDanScott on Twitter 
 - 07594875693
