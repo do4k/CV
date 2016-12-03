@@ -3,7 +3,7 @@
 I am a young enthusiastic undergaduate Software Engineer with a passion for learning and building.
 
 ##Work Experience
-####J D Wetherspoons, Gog & Magog July 2105 - Present 
+####J D Wetherspoons, Gog & Magog July 2106 - Present 
 ######Bar Associate 
 - Striving to deliver top quality customer service. 
 - Adhering my presentation to the high standards set by JD Wetherspoon.
