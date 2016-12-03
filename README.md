@@ -28,12 +28,6 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 - QA Testing using the bespoke software developed in house.
 
 ##Education 
-####Alton College class of 2010 - 2012
-######Computer Science - B
-- Core programming concepts taught with Pascal
-- Extensive HTML applied in various codepens and personal website/portfolios
-- Self driven end of year project [PHP Webstore](https://github.com/iDanScott/PHP-Webstore). Self taught PHP.
-
 ####Plymouth University (2014 - 2018)
 #####Foundation with Computer Science Year 0 - Progressed with a First.
 - Mathematics 
@@ -51,6 +45,12 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 - The Quantum Universe (2:1)
 - Principles of Network Infrastructure (2:1)
 - Software Algorithms, Data Structures and Mathematics (2:1)
+
+####Alton College class of 2010 - 2012
+######Computer Science - B
+- Core programming concepts taught with Pascal
+- Extensive HTML applied in various codepens and personal website/portfolios
+- Self driven end of year project [PHP Webstore](https://github.com/iDanScott/PHP-Webstore). Self taught PHP.
 
 ||Skill Set| 
 |---|---|
