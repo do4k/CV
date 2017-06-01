@@ -67,9 +67,10 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 | **Frameworks** | .NET, Bootstrap, Angular, Node, CakePHP | 
 | **Databases** | MySQL, SQLite, Microsoft SQL Server, BlockChain, Oracle | 
 
-####Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
+#### Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
 
-#Contact Me 
+# Contact Me 
 - dan.scott1994@hotmail.co.uk
-- @iDanScott on Twitter 
+- daniel.r.scott@students.plymouth.ac.uk
+- www.idanscott.co.uk
 - 07594875693
