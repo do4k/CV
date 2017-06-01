@@ -29,13 +29,13 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 
 ## Education 
 #### Plymouth University (2014 - 2018)
-##### Foundation with Computer Science Year 0 - Progressed with a First.
-- Mathematics 
-- Statistics 
-- Electronics
-- Computer Programming (VBScript, HTML/CSS).
-- Computer Systems and Networks 
-- Software Engineering Final Major Project [Network Monitoring Suite](https://github.com/iDanScott/UniProject)
+##### Computer Science Year 2
+- Object-Orientated Software Engineering with Design Patterns (First)
+- Database Applications Development (First)
+- User-Centred Interface Design (2:1)
+- Computation Theory and Artificial Intelligence
+- Computer Science Integrating Project - [Pizza Heaven](https://github.com/iDanScott/prcs251)
+- Embedded Software Engineering, Compiler Design, Languages & Grammars
 
 ##### Computer Science Year 1 
 - Computer Science Introduction (First)
@@ -46,13 +46,13 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 - Principles of Network Infrastructure (2:1)
 - Software Algorithms, Data Structures and Mathematics (2:1)
 
-##### Computer Science Year 2
-- Object-Orientated Software Engineering with Design Patterns (First)
-- Database Applications Development (First)
-- User-Centred Interface Design (2:1)
-- Computation Theory and Artificial Intelligence
-- Computer Science Integrating Project - [Pizza Heaven](https://github.com/iDanScott/prcs251)
-- Embedded Software Engineering, Compiler Design, Languages & Grammars
+##### Foundation with Computer Science Year 0 - Progressed with a First.
+- Mathematics 
+- Statistics 
+- Electronics
+- Computer Programming (VBScript, HTML/CSS).
+- Computer Systems and Networks 
+- Software Engineering Final Major Project [Network Monitoring Suite](https://github.com/iDanScott/UniProject)
 
 #### Alton College class of 2010 - 2012
 ###### Computer Science - B
