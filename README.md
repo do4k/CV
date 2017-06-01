@@ -62,7 +62,7 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 
 ||Skill Set| 
 |---|---|
-| **Practices** | Pair Programming, Object-Orienated Design (and Pattern Principles) |
+| **Practices** | Pair Programming, Object-Orienated Design (and Pattern Principles), Agile |
 | **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java, GoLang | 
 | **Frameworks** | .NET, Bootstrap, Angular, Node, CakePHP | 
 | **Databases** | MySQL, SQLite, Microsoft SQL Server, BlockChain, Oracle | 
