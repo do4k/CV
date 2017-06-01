@@ -11,9 +11,9 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 
 #### Plymouth University December 2015 - Present
 ###### PALs Leader
-- Organising and leading sessions which students can exchange ideas 
-- Co-operating with course leaders as to how sessions can be improved
-- Communicating and understanding multiple students ways of learning and adapting sessions based on those needs
+- Organising and leading sessions which students can exchange ideas.
+- Co-operating with course leaders as to how sessions can be improved.
+- Communicating and understanding multiple students ways of learning and adapting sessions based on those needs.
 
 ###### Student Ambassador 
 - Delivery of Campus Tours.
@@ -45,6 +45,14 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 - The Quantum Universe (2:1)
 - Principles of Network Infrastructure (2:1)
 - Software Algorithms, Data Structures and Mathematics (2:1)
+
+##### Computer Science Year 2
+- Object-Orientated Software Engineering with Design Patterns (First)
+- Database Applications Development (First)
+- User-Centred Interface Design (2:1)
+- Computation Theory and Artificial Intelligence
+- Computer Science Integrating Project - [Pizza Heaven](https://github.com/iDanScott/prcs251)
+- Embedded Software Engineering, Compiler Design, Languages & Grammars
 
 #### Alton College class of 2010 - 2012
 ###### Computer Science - B
