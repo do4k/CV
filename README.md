@@ -34,7 +34,7 @@ I am a young enthusiastic undergaduate Software Engineer with a passion for lear
 - Database Applications Development (First)
 - User-Centred Interface Design (2:1)
 - Computation Theory and Artificial Intelligence
-- Computer Science Integrating Project - [Pizza Heaven](https://github.com/iDanScott/prcs251)
+- Computer Science Integrating Project - [Desktop](https://github.com/iDanScott/PizzaHeavenDesktop) - [Website](https://github.com/iDanScott/PizzaHeavenWebsite) - [Android App](https://github.com/iDanScott/PizzaHeavenDelivery) - [Common Library](https://github.com/iDanScott/PizzaHeavenLib) - [Chef](https://github.com/iDanScott/PizzaHeavenChef)
 - Embedded Software Engineering, Compiler Design, Languages & Grammars
 
 ##### Computer Science Year 1 
