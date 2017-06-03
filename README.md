@@ -1,6 +1,6 @@
 # Dan Scott
 
-I am a young enthusiastic undergaduate Software Engineer with a passion for learning and building.
+I am a young enthusiastic undergraduate Software Engineer with a passion for learning and building.
 
 ## Work Experience
 #### J D Wetherspoons, Gog & Magog July 2106 - Present 
