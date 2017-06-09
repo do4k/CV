@@ -63,8 +63,8 @@ I am a young enthusiastic undergraduate Software Engineer with a passion for lea
 ||Skill Set| 
 |---|---|
 | **Practices** | Pair Programming, Object-Orienated Design (and Pattern Principles), Agile |
-| **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java, GoLang | 
-| **Frameworks** | .NET, Bootstrap, Angular, Node, CakePHP | 
+| **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java, C, C++, ASM | 
+| **Frameworks** | .NET, Bootstrap, Angular, Node, Android | 
 | **Databases** | MySQL, SQLite, Microsoft SQL Server, BlockChain, Oracle | 
 
 #### Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
