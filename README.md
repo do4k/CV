@@ -3,13 +3,19 @@
 I am a young enthusiastic undergraduate Software Engineer with a passion for learning and building.
 
 ## Work Experience
-#### J D Wetherspoons, Gog & Magog July 2106 - Present 
+#### S D Hardware July 2017 - September 2017 (10 Weeks)
+###### Website Adminstrator Intern
+- Amended the online catalogue of products using a CMS system developed by vertical plus 
+- Modified product imagery using Photoshop.
+- Helped to boost productivity through various applications of Google Sheets. 
+
+#### J D Wetherspoons, Gog & Magog July 2106 - July 2017 
 ###### Bar Associate 
 - Striving to deliver top quality customer service. 
 - Adhering my presentation to the high standards set by JD Wetherspoon.
 - Communicating to the best of my ability, with customers from various walks of life.
 
-#### Plymouth University December 2015 - Present
+#### Plymouth University September 2016 - Present
 ###### PALs Leader
 - Organising and leading sessions which students can exchange ideas.
 - Co-operating with course leaders as to how sessions can be improved.
@@ -29,13 +35,19 @@ I am a young enthusiastic undergraduate Software Engineer with a passion for lea
 
 ## Education 
 #### Plymouth University (2014 - 2018)
+##### Computer Science Final Year 
+- Computer Programming for Entertainment Systems
+- Parrallel Computation and Distributed Systems
+- Brain Inspired Cognitive Systems 
+- Cybercrime Issues and Regulations
+- Computing Project 
 ##### Computer Science Year 2
 - Object-Orientated Software Engineering with Design Patterns (First)
 - Database Applications Development (First)
 - User-Centred Interface Design (2:1)
-- Computation Theory and Artificial Intelligence
-- Computer Science Integrating Project - [Desktop](https://github.com/iDanScott/PizzaHeavenDesktop) - [Website](https://github.com/iDanScott/PizzaHeavenWebsite) - [Android App](https://github.com/iDanScott/PizzaHeavenDelivery) - [Common Library](https://github.com/iDanScott/PizzaHeavenLib) - [Chef](https://github.com/iDanScott/PizzaHeavenChef)
-- Embedded Software Engineering, Compiler Design, Languages & Grammars
+- Computation Theory and Artificial Intelligence (2:1)
+- Computer Science Integrating Project (First) - [Desktop](https://github.com/iDanScott/PizzaHeavenDesktop) - [Website](https://github.com/iDanScott/PizzaHeavenWebsite) - [Android App](https://github.com/iDanScott/PizzaHeavenDelivery) - [Common Library](https://github.com/iDanScott/PizzaHeavenLib) - [Chef](https://github.com/iDanScott/PizzaHeavenChef)
+- Embedded Software Engineering, Compiler Design, Languages & Grammars (2:1)
 
 ##### Computer Science Year 1 
 - Computer Science Introduction (First)
@@ -63,14 +75,13 @@ I am a young enthusiastic undergraduate Software Engineer with a passion for lea
 ||Skill Set| 
 |---|---|
 | **Practices** | Pair Programming, Object-Orienated Design (and Pattern Principles), Agile |
-| **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java, C, C++, ASM | 
-| **Frameworks** | .NET, Bootstrap, Angular, Node, Android | 
+| **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java, ASM | 
+| **Frameworks** | .NET, Bootstrap, Node, Android | 
 | **Databases** | MySQL, SQLite, Microsoft SQL Server, BlockChain, Oracle | 
 
 #### Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
 
 # Contact Me 
-- dan.scott1994@hotmail.co.uk
-- daniel.r.scott@students.plymouth.ac.uk
+- dan.software@outlook.com
 - www.idanscott.co.uk
 - 07594875693
