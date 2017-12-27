@@ -82,6 +82,6 @@ I am a young enthusiastic undergraduate Software Engineer with a passion for lea
 #### Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
 
 # Contact Me 
-- dan.software@outlook.com
+- idanscott@outlook.com
 - www.idanscott.co.uk
 - 07594875693
