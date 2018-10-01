@@ -79,7 +79,7 @@ Graduated with Honours, Second Class Upper Division.
 ||Skill Set| 
 |---|---|
 | **Practices** | Pair Programming, Object-Orienated Design (SOLID), Agile |
-| **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java | 
+| **Languages** | HTML, CSS, Javascript, PHP, C#, Pascal, Java | 
 | **Frameworks** | .NET, Bootstrap, Node, Android | 
 | **Databases** | MySQL, SQLite, Microsoft SQL Server, BlockChain, Oracle | 
 | **Tools** | Microsoft SQL Management Studio, Visual Studio (Enterprise/Code), Netbeans, Microsoft Office Packages | 
