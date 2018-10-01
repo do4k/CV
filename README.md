@@ -3,6 +3,9 @@
 I am a young enthusiastic undergraduate Software Engineer with a passion for learning and building.
 
 ## Work Experience
+#### WPC Software July 2018 - Present 
+###### Junior .NET Software Engineer 
+
 #### S D Hardware July 2017 - September 2017 (10 Weeks)
 ###### Website Adminstrator Intern
 - Amended the online catalogue of products using a CMS system developed by vertical plus 
@@ -15,7 +18,7 @@ I am a young enthusiastic undergraduate Software Engineer with a passion for lea
 - Adhering my presentation to the high standards set by JD Wetherspoon.
 - Communicating to the best of my ability, with customers from various walks of life.
 
-#### Plymouth University September 2016 - Present
+#### Plymouth University September 2016 - May 2018
 ###### PALs Leader
 - Organising and leading sessions which students can exchange ideas.
 - Co-operating with course leaders as to how sessions can be improved.
@@ -35,12 +38,13 @@ I am a young enthusiastic undergraduate Software Engineer with a passion for lea
 
 ## Education 
 #### Plymouth University (2014 - 2018)
+Graduated with Honours, Second Class Upper Division. 
 ##### Computer Science Final Year 
 - Computer Programming for Entertainment Systems
 - Parrallel Computation and Distributed Systems
 - Brain Inspired Cognitive Systems 
 - Cybercrime Issues and Regulations
-- Computing Project 
+- Computing Project (Dans World C# MMO CLient and Server)
 ##### Computer Science Year 2
 - Object-Orientated Software Engineering with Design Patterns (First)
 - Database Applications Development (First)
@@ -74,14 +78,15 @@ I am a young enthusiastic undergraduate Software Engineer with a passion for lea
 
 ||Skill Set| 
 |---|---|
-| **Practices** | Pair Programming, Object-Orienated Design (and Pattern Principles), Agile |
-| **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java, ASM | 
+| **Practices** | Pair Programming, Object-Orienated Design (SOLID), Agile |
+| **Languages** | HTML, CSS, PHP, C#, Pascal, Javascript, Java | 
 | **Frameworks** | .NET, Bootstrap, Node, Android | 
 | **Databases** | MySQL, SQLite, Microsoft SQL Server, BlockChain, Oracle | 
+| **Tools** | Microsoft SQL Management Studio, Visual Studio (Enterprise/Code), Netbeans, Microsoft Office Packages | 
 
 #### Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
 
 # Contact Me 
-- idanscott@outlook.com
+- danscottsoft@gmail.com
 - www.idanscott.co.uk
 - 07594875693
