@@ -4,7 +4,7 @@ I am a young enthusiastic undergraduate Software Engineer with a passion for lea
 
 ## Work Experience
 #### WPC Software July 2018 - Present 
-###### Junior .NET Software Engineer 
+###### .NET Software Engineer 
 
 #### S D Hardware July 2017 - September 2017 (10 Weeks)
 ###### Website Adminstrator Intern
@@ -74,15 +74,16 @@ Graduated with Honours, Second Class Upper Division.
 ###### Computer Science - B
 - Core programming concepts taught with Pascal
 - Extensive HTML applied in various codepens and personal website/portfolios
-- Self driven end of year project [PHP Webstore](https://github.com/iDanScott/PHP-Webstore). Self taught PHP.
+- Self driven end of year project PHP Webstore. Self taught PHP.
 
+###### Skills in order of compitency
 ||Skill Set| 
 |---|---|
-| **Practices** | Pair Programming, Object-Orienated Design (SOLID), Agile |
-| **Languages** | HTML, CSS, Javascript, PHP, C#, Pascal, Java | 
-| **Frameworks** | .NET, Bootstrap, Node, Android | 
-| **Databases** | MySQL, SQLite, Microsoft SQL Server, BlockChain, Oracle | 
-| **Tools** | Microsoft SQL Management Studio, Visual Studio (Enterprise/Code), Netbeans, Microsoft Office Packages | 
+| **Practices** | Pair Programming, Object-Orienated Design (SOLID), Test Driven Development |
+| **Languages** | C#, HTML, CSS, Javascript, Java | 
+| **Frameworks** | .NET, .NET Core, Bootstrap, Sass, Node.js, express.js | 
+| **Databases** | Microsoft SQL Server, MySQL, SQLite, Oracle | 
+| **Tools** | Microsoft Office Packages, Visual Studio (Enterprise/Code),  Microsoft SQL Management Studio, SQL Developer, git, vsts, azure devops CI, powershell | 
 
 #### Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
 
