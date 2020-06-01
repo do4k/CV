@@ -20,9 +20,6 @@ I am an enthusiastic Software Engineer with a passion for learning and building.
 
 #### J D Wetherspoons, Gog & Magog July 2106 - July 2017 
 ###### Bar Associate 
-- Striving to deliver top quality customer service. 
-- Adhering my presentation to the high standards set by JD Wetherspoon.
-- Communicating to the best of my ability, with customers from various walks of life.
 
 #### Plymouth University September 2016 - May 2018
 ###### PALs Leader
@@ -51,6 +48,7 @@ Graduated with Honours, Second Class Upper Division.
 - Brain Inspired Cognitive Systems 
 - Cybercrime Issues and Regulations
 - Computing Project (Dans World C# MMO CLient and Server)
+
 ##### Computer Science Year 2
 - Object-Orientated Software Engineering with Design Patterns (First)
 - Database Applications Development (First)
@@ -81,16 +79,6 @@ Graduated with Honours, Second Class Upper Division.
 - Core programming concepts taught with Pascal
 - Extensive HTML applied in various codepens and personal website/portfolios
 - Self driven end of year project PHP Webstore. Self taught PHP.
-
-###### Skills in order of compitency
-||Skill Set| 
-|---|---|
-| **Practices** | Pair Programming, Object-Orienated Design (SOLID), Test Driven Development |
-| **Languages** | C#, HTML, CSS, Javascript, Java | 
-| **Frameworks** | .NET, .NET Core, Bootstrap, Sass, Node.js, express.js | 
-| **Databases** | Microsoft SQL Server, MySQL, SQLite, Oracle | 
-| **Tools** | Microsoft Office Packages, Visual Studio (Enterprise/Code),  Microsoft SQL Management Studio, SQL Developer, git, vsts, azure devops CI, powershell | 
-
 #### Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
 
 # Contact Me 
