@@ -1,10 +1,16 @@
 # Dan Scott
 
-I am a young enthusiastic undergraduate Software Engineer with a passion for learning and building.
+I am an enthusiastic Software Engineer with a passion for learning and building.
 
 ## Work Experience
-#### WPC Software July 2018 - Present 
-###### .NET Software Engineer 
+#### Anana Ltd May 2020 - Present
+###### Software Engineer
+
+#### WPC Software Ltd June 2018 - May 2020 
+###### .NET Software Engineer
+- .NET Framework Development with legacy VB.NET applications in Visual Studio
+- .NET Core Development with SASS and vanilla javascript
+- Unit Testing with NUnit
 
 #### S D Hardware July 2017 - September 2017 (10 Weeks)
 ###### Website Adminstrator Intern
