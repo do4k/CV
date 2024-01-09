@@ -3,14 +3,36 @@
 I am an enthusiastic Software Engineer with a passion for learning and building.
 
 ## Work Experience
-#### Anana Ltd May 2020 - Present
+
+#### ClearBank August 2022 - Present
+###### Software Engineer 
+- .NET Microservices architecture using ServiceBus for event based messaging. 
+- Faster Payments (FPS) team handling outbound payments, with very large volumes payments per day where performance and throughput was paramount. 
+- Regulatory space, automating many manual processes and improving the performance of reports such as the FSCS report that ClearBank has to generate within 24hrs of receiving the request.
+- Dashboarding cluster performance for fine detailed monitoring
+
+#### OVO Energy July 2021 - August 2022
+###### Scala Software Engineer 
+- Smart meter journey implementations using functional programming methodologies
+- Ownership of frontend experience in React js
+
+###### .NET Software Engineer July 2021 - January 2022
+- Built tools and signage to facilitate the migration of 3.5 million customers to OVO's core scala platform
+
+#### Bud Systems Ltd October 2020 - May 2021
+###### Software Engineer 
+- Microservices Event Carried State Transfer architecture leveraging the Azure Service Bus along with the NServiceBus Framework. 
+- Specifically focused on consuming data from multiple services to automate the generation of an individualised learner record (ILR) to be submitted to the government for training providers to claim funding.
+
+#### Anana Ltd May 2020 - October 2020
 ###### Software Engineer
+- Enhanced the user interface for an omnichannel customer call centre solution with Vue.js / C#.
 
 #### WPC Software Ltd June 2018 - May 2020 
 ###### .NET Software Engineer
-- .NET Framework Development with legacy VB.NET applications in Visual Studio
-- .NET Core Development with SASS and vanilla javascript
-- Unit Testing with NUnit
+- .NET Framework Development with legacy VB.NET / jQuery applications in Visual Studio
+- .NET Core Development with SCSS, Bootstrap and vanilla javascript
+- Unit Testing with xUnit
 
 #### S D Hardware July 2017 - September 2017 (10 Weeks)
 ###### Website Adminstrator Intern
@@ -61,7 +83,7 @@ Graduated with Honours, Second Class Upper Division.
 - Computer Science Introduction (First)
 - Software Engineering Concepts (First)
 - Database Analysis, Design and Implementation (First) 
-- Sofware Engineering Christmas Challenge [Wordsearch](https://github.com/iDanScott/WordSearch)
+- Sofware Engineering Christmas Challenge [Wordsearch](https://github.com/DanDecrypted/WordSearch)
 - The Quantum Universe (2:1)
 - Principles of Network Infrastructure (2:1)
 - Software Algorithms, Data Structures and Mathematics (2:1)
@@ -72,16 +94,16 @@ Graduated with Honours, Second Class Upper Division.
 - Electronics
 - Computer Programming (VBScript, HTML/CSS).
 - Computer Systems and Networks 
-- Software Engineering Final Major Project [Network Monitoring Suite](https://github.com/iDanScott/UniProject)
+- Software Engineering Final Major Project [Network Monitoring Suite](https://github.com/DanDecrypted/UniProject)
 
 #### Alton College class of 2010 - 2012
 ###### Computer Science - B
 - Core programming concepts taught with Pascal
 - Extensive HTML applied in various codepens and personal website/portfolios
 - Self driven end of year project PHP Webstore. Self taught PHP.
-#### Find me on [LinkedIn](https://uk.linkedin.com/in/dan-scott-03b4b93a)
+#### Find me on [LinkedIn](https://uk.linkedin.com/in/coderdanuk)
 
 # Contact Me 
-- danscottsoft@gmail.com
-- www.idanscott.co.uk
-- 07594875693
+- [hidanoak@gmail.com](mailto:hidanoak@gmail.com)
+- [dan-oak.dev](https://dan-oak.dev)
+- (+44) 7594 875 693
