@@ -76,7 +76,7 @@ Graduated with Honours, Second Class Upper Division.
 - Database Applications Development (First)
 - User-Centred Interface Design (2:1)
 - Computation Theory and Artificial Intelligence (2:1)
-- Computer Science Integrating Project (First) - [Desktop](https://github.com/PRCS251A/PizzaHeavenDesktop) - [Website](https://github.com/PRCS251A/PizzaHeavenWebsite) - [Android App](https://github.com/PRCS251A/PizzaHeavenDelivery) - [Common Library](https://github.com/PRCS251A/PizzaHeavenLib) - [Chef](https://github.com/PRCS251A/PizzaHeavenChef) - [Root Project](https://github.com/PRCS251A)
+- Computer Science Integrating Project (First) - [Recording](https://www.youtube.com/watch?v=bc6Ec6zohBc&t=589s&ab_channel=DanOak) - [Desktop](https://github.com/PRCS251A/PizzaHeavenDesktop) - [Website](https://github.com/PRCS251A/PizzaHeavenWeb) - [Android App](https://github.com/PRCS251A/PizzaHeavenDelivery) - [Common Library](https://github.com/PRCS251A/PizzaHeavenLib) - [Chef](https://github.com/PRCS251A/PizzaHeavenChef) - [Root Project](https://github.com/PRCS251A)
 - Embedded Software Engineering, Compiler Design, Languages & Grammars (2:1)
 
 ##### Computer Science Year 1 
