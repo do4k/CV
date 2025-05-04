@@ -4,12 +4,19 @@ I am an enthusiastic Software Engineer with a passion for learning and building.
 
 ## Work Experience
 
-#### ClearBank August 2022 - Present
-###### Software Engineer 
+#### JustEatTakeaway.com March 2025 - Present
+###### Senior Software Engineer (Backend)
+- .NET Microservices architecture with Kafka
+- Sponsored Listings team
+- AWS Infrastructure with EKS
+
+#### ClearBank August 2022 - March 2025
+###### Senior Software Engineer 
 - .NET Microservices architecture using ServiceBus for event based messaging. 
 - Faster Payments (FPS) team handling outbound payments, with very large volumes payments per day where performance and throughput was paramount. 
 - Regulatory space, automating many manual processes and improving the performance of reports such as the FSCS report that ClearBank has to generate within 24hrs of receiving the request.
 - Dashboarding cluster performance for fine detailed monitoring
+- Azure infrastructure with AKS
 
 #### OVO Energy July 2021 - August 2022
 ###### Scala Software Engineer 
